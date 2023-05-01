@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <script>
+    let text = {{{ text_data }}}.t;
+
+    $.ajax({
+      url: 'https://irbis.grammarly.com/api/funnels/embedded/check',
+      data: {
+        aff_id: '1122',
+        offer_id: '299',
+        source: 'cg',
+        text: text,
+      },
+      type: 'POST',
+      // context: {target: target},
+      success: function (response) {
+       window.location = response.reportUrl;
+     },
+      error: function (e) {
+      console.error(e)
+      }
+    });
+  </script>
+
+  <style>
+  body, html{
+
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      margin: 0;
+  }
+    .wrapper{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .inner{
+      padding: 20px;
+      font-size: 20px;
+      color: gray;
+      font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif; 
+    }
+
+    .inner div{
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="inner">
+      🔬 Please wait while we analyze your text..<br/><br/>
+      <div>This may take a few seconds..</div>
+    </div>
+  </div>
+</body>
+</html>

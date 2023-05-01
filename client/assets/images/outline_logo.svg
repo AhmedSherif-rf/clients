@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.1.0.18-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   overflow="visible"
+   width="43.769001pt"
+   height="43.769001pt"
+   viewBox="0 0 43.769001 43.769001"
+   id="svg16"
+   sodipodi:docname="outline_logo.svg"
+   style="overflow:visible;fill-rule:evenodd;stroke-width:0.50099999;stroke-linejoin:bevel"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1363"
+     inkscape:window-height="693"
+     id="namedview18"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.888"
+     inkscape:cx="-36.989322"
+     inkscape:cy="-6.7905237"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Spread" />
+  <defs
+     id="defs2" />
+  <g
+     id="Document"
+     font-size="16"
+     transform="matrix(1,0,0,-1,-602.2505,-288.4805)"
+     style="font-size:16px;font-family:'Times New Roman';fill:none;stroke:#000000">
+    <g
+       id="Spread"
+       transform="translate(0,-750)">
+      <g
+         id="Page background">
+        <path
+           d="M 0,749.999 V 0 h 569.999 v 749.999 z"
+           stroke-miterlimit="79.8403193612775"
+           id="path4"
+           inkscape:connector-curvature="0"
+           style="stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:79.84031677;marker-start:none;marker-end:none" />
+      </g>
+      <g
+         id="MouseOff">
+        <path
+           d="m 645.332,439.635 c 0,11.701 -9.496,21.197 -21.197,21.197 -11.701,0 -21.197,-9.496 -21.197,-21.197 0,-11.701 9.496,-21.197 21.197,-21.197 11.701,0 21.197,9.496 21.197,21.197 z"
+           stroke-miterlimit="79.8403193612775"
+           id="path7"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:1.375;stroke-linejoin:miter;stroke-miterlimit:79.84031677;marker-start:none;marker-end:none" />
+        <path
+           d="m 617.606,437.423 c 0.504,-1.937 1.835,-2.707 3.368,-3.153 0.153,-0.049 0.127,-0.202 0.127,-0.202 l -0.229,-1.535 c 0,0 -0.025,-0.127 -0.223,-0.099 -5.405,0.596 -8.995,4.641 -8.367,9.559 0.653,3.401 3.367,4.72 5.828,4.372 2.486,-0.399 4.195,-2.685 3.792,-5.14 -0.327,-2.187 -2.158,-3.726 -4.296,-3.802 z"
+           stroke-miterlimit="79.8403193612775"
+           id="path9"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:1.375;stroke-linejoin:miter;stroke-miterlimit:79.84031677;marker-start:none;marker-end:none" />
+        <path
+           d="m 635.105,441.225 c -0.325,-2.161 -2.186,-3.703 -4.292,-3.802 0.523,-1.937 1.805,-2.707 3.362,-3.153 0.152,-0.049 0.128,-0.202 0.128,-0.202 l -0.251,-1.535 c 0,0 -0.024,-0.127 -0.23,-0.099 -5.371,0.596 -9.011,4.641 -8.334,9.559 0.626,3.401 3.317,4.72 5.801,4.372 2.484,-0.399 4.19,-2.685 3.816,-5.14 z"
+           stroke-miterlimit="79.8403193612775"
+           id="path11"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:1.375;stroke-linejoin:miter;stroke-miterlimit:79.84031677;marker-start:none;marker-end:none" />
+      </g>
+    </g>
+  </g>
+</svg>
